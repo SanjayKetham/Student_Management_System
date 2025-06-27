@@ -32,7 +32,7 @@ Follow these steps to compile and run the project from terminal:
 ### 1️⃣ Open Terminal in Project Directory
 > For example:
 ```bash
-cd C:/Users/bhavya/OneDrive/Desktop/StudentRecordSystem
+cd C:/Users/Sanjay/OneDrive/Desktop/StudentRecordSystem
 
 compile the code: javac Student.java Main.java
 Run the code:java Main
